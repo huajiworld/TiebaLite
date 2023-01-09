@@ -26,7 +26,7 @@ if (isPerVersion) {
 
 android {
     compileSdkVersion 33
-    buildToolsVersion '33.0.0'
+    buildToolsVersion "33.0.0"
     defaultConfig {
         applicationId "com.huanchengfly.tieba.post"
         minSdkVersion 21
